@@ -29,6 +29,6 @@ function handleCalculateGrade(event) {
 
     
     
-    alert("The percentage was " + percentage);
+    alert("The percentage is " + percentage);
 }
  
