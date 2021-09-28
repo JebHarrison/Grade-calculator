@@ -1,6 +1,4 @@
 function handleCalculateGrade(event){
-    
-    
     var grade = event.target.value;
     
     if (!grade){
