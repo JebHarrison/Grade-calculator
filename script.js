@@ -23,12 +23,7 @@ function handleCalculateGrade(event){
             percentage = "0-10%";
             break;
 
-
-
-
-
-
     }
 
-
+    alert("The percentage was " + percentage);
 }
