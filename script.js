@@ -17,9 +17,11 @@ function handleCalculateGrade(event){
             percentage = "35-50%";
             break;
         case "E":
-            percentage = "0-35%"; 
+            percentage = "10-35%"; 
             break;           
-
+        case "F":
+            percentage = "0-10%";
+            break;
 
 
 
